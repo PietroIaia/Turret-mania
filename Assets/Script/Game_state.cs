@@ -10,6 +10,11 @@ public class Game_state : MonoBehaviour
     // Player's score
     private int score = 0;
 
+    private void Start()
+    {
+        Cursor.visible = false;
+    }
+
     public void takeDamage()
     {
         health -= 1;
