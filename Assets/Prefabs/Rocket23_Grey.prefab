@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: -1595649090029986485}
   - component: {fileID: -7799370237022976160}
   - component: {fileID: 4861035197497928567}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Rocket23_Grey
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -123,4 +123,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be215f61dc5918741b0cf2b97bc71198, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bulletSpeed: 2000
